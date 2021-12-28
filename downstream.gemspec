@@ -29,7 +29,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "after_commit_everywhere", "~> 1.0"
   spec.add_dependency "globalid", "~> 1.0"
-  spec.add_dependency "rails", ">= 6"
+  spec.add_dependency "rails", ">= 7"
 
   spec.add_development_dependency "appraisal", "~> 2.2"
   spec.add_development_dependency "bundler", ">= 1.16"
